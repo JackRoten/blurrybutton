@@ -1,0 +1,22 @@
+V1:
+
+Setup locally to access supabase and accept payment of
+10 cents
+
+
+V2:
+
+Generate range of button images that inlude a sharp
+button image and a series blurry versions of it.
+
+Allow 50 clicks per day for a non user
+
+Allow 1000 clicks per day for a user and daily click tracking with no history
+
+Allow unlimited clicks per day for a paying user and click tracking 
+showing previous month of clicks per day
+
+
+Scientists show, if you can unblur this button, you can do anything
+
+
