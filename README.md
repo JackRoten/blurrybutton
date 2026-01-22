@@ -1,0 +1,1 @@
+Can you click button and fully un-blur it?
